@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['yconst',['YConst',['../class_sgt_1_1_bus.html#ae8c8f1f68ad3298b05322658c22b27a6',1,'Sgt::Bus']]],
-  ['yytransformer',['YyTransformer',['../class_sgt_1_1_yy_transformer.html#a89a70a1ab314a5e74ac3bff4df5718c4',1,'Sgt::YyTransformer']]]
+  ['yconst',['YConst',['../class_sgt_1_1_bus.html#ac95afea64e58ac3973994f3cf8bf0f82',1,'Sgt::Bus::YConst()'],['../class_sgt_1_1_generic_zip.html#a52ba63dec5bdfd6b65122e4101920581',1,'Sgt::GenericZip::YConst()']]],
+  ['yytransformer',['YyTransformer',['../class_sgt_1_1_yy_transformer.html#ad9d93a3aa586d1b974fa0dad0340fad3',1,'Sgt::YyTransformer']]]
 ];

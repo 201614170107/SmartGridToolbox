@@ -12,9 +12,10 @@ var searchData=
   ['powerflowmodel',['PowerFlowModel',['../class_sgt_1_1_power_flow_model.html',1,'Sgt']]],
   ['powerflownrpolsolver',['PowerFlowNrPolSolver',['../class_sgt_1_1_power_flow_nr_pol_solver.html',1,'Sgt']]],
   ['powerflownrrectsolver',['PowerFlowNrRectSolver',['../class_sgt_1_1_power_flow_nr_rect_solver.html',1,'Sgt']]],
-  ['powerflowptppsolver',['PowerFlowPtPpSolver',['../class_sgt_1_1_power_flow_pt_pp_solver.html',1,'Sgt']]],
+  ['powerflowptsolver',['PowerFlowPtSolver',['../class_sgt_1_1_power_flow_pt_solver.html',1,'Sgt']]],
   ['powerflowsolverinterface',['PowerFlowSolverInterface',['../class_sgt_1_1_power_flow_solver_interface.html',1,'Sgt']]],
   ['powerflowsolverparserplugin',['PowerFlowSolverParserPlugin',['../class_sgt_1_1_power_flow_solver_parser_plugin.html',1,'Sgt']]],
+  ['properties',['Properties',['../class_sgt_1_1_properties.html',1,'Sgt']]],
   ['property',['Property',['../class_sgt_1_1_property.html',1,'Sgt']]],
   ['propertyabc',['PropertyAbc',['../class_sgt_1_1_property_abc.html',1,'Sgt']]]
 ];

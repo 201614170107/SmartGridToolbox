@@ -2,8 +2,6 @@ var searchData=
 [
   ['setter',['Setter',['../class_sgt_1_1_setter.html',1,'Sgt']]],
   ['setterabc',['SetterAbc',['../class_sgt_1_1_setter_abc.html',1,'Sgt']]],
-  ['shared',['Shared',['../class_sgt_1_1_shared.html',1,'Sgt']]],
-  ['shared_3c_20component_20_3e',['Shared&lt; Component &gt;',['../class_sgt_1_1_shared.html',1,'Sgt']]],
   ['simbranch',['SimBranch',['../class_sgt_1_1_sim_branch.html',1,'Sgt']]],
   ['simbranchabc',['SimBranchAbc',['../class_sgt_1_1_sim_branch_abc.html',1,'Sgt']]],
   ['simbranchparserplugin',['SimBranchParserPlugin',['../class_sgt_1_1_sim_branch_parser_plugin.html',1,'Sgt']]],

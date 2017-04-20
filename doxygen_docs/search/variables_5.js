@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['j_5f',['J_',['../struct_sgt_1_1_pf_bus.html#a635a33634f697c5359dd9df870f330c9',1,'Sgt::PfBus']]]
+  ['jgen_5f',['JGen_',['../struct_sgt_1_1_pf_bus.html#a39d8f970a246c3724a64524e33b88e93',1,'Sgt::PfBus']]]
 ];

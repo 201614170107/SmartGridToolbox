@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['acquiresimcomponent',['acquireSimComponent',['../class_sgt_1_1_simulation.html#ab39c5414e5b5dfa8e15e1a131584ee1a',1,'Sgt::Simulation']]],
-  ['acquiretimeseries',['acquireTimeSeries',['../class_sgt_1_1_simulation.html#a361651766ecfb48176c37f60e9001df7',1,'Sgt::Simulation']]],
   ['action',['Action',['../class_sgt_1_1_action.html',1,'Sgt']]],
-  ['adddependency',['addDependency',['../class_sgt_1_1_sim_component.html#a077c2da024d7e059beb48c7bdd06aa3c',1,'Sgt::SimComponent']]],
-  ['admittancechanged',['admittanceChanged',['../class_sgt_1_1_branch_abc.html#a067b91e3693e2ed59df10d7348284dce',1,'Sgt::BranchAbc']]],
+  ['addsimcomponent',['addSimComponent',['../class_sgt_1_1_simulation.html#a892cd2e880a9af81d89252ec767b3384',1,'Sgt::Simulation']]],
+  ['addtimeseries',['addTimeSeries',['../class_sgt_1_1_simulation.html#a34376504bd18e30b8934da073d33d6f4',1,'Sgt::Simulation']]],
+  ['admittancechanged',['admittanceChanged',['../class_sgt_1_1_branch_abc.html#ab0f641870a6f1479a592b45e617ef05a',1,'Sgt::BranchAbc::admittanceChanged() const'],['../class_sgt_1_1_branch_abc.html#a067b91e3693e2ed59df10d7348284dce',1,'Sgt::BranchAbc::admittanceChanged()']]],
   ['allocator_5ftype',['allocator_type',['../class_sgt_1_1basic__json.html#aa5c8854938cccd04b197db6c2f677d03',1,'Sgt::basic_json']]],
   ['angsandmagtovec',['angsAndMagToVec',['../namespace_sgt.html#a171b3eebc140ffe6bb22d19f46e0f9a0',1,'Sgt']]],
   ['angsandprojtovec',['angsAndProjToVec',['../namespace_sgt.html#a3c5d9068ff6d33f2eccbd5cb15275d27',1,'Sgt']]],
@@ -12,8 +11,9 @@ var searchData=
   ['array',['array',['../class_sgt_1_1basic__json.html#aa59662b8296406ceebc070430651cff2',1,'Sgt::basic_json::array(std::initializer_list&lt; basic_json &gt; init=std::initializer_list&lt; basic_json &gt;())'],['../class_sgt_1_1basic__json.html#a8aaa92183f1b7b5a0a08df28d0074602af1f713c9e000f5d3f280adbd124df4f5',1,'Sgt::basic_json::array()']]],
   ['array_5fend',['array_end',['../class_sgt_1_1basic__json.html#a4a4ad9a6971f02c628c6237cf27d412ba49642fb732aa2e112188fba1f9d3ef7f',1,'Sgt::basic_json']]],
   ['array_5fstart',['array_start',['../class_sgt_1_1basic__json.html#a4a4ad9a6971f02c628c6237cf27d412baa4388a3d92419edbb1c6efd4d52461f3',1,'Sgt::basic_json']]],
-  ['array_5ft',['array_t',['../class_sgt_1_1basic__json.html#add4ecaaca810875f8ec49abe4950c51b',1,'Sgt::basic_json']]],
-  ['at',['at',['../class_sgt_1_1basic__json.html#a764ad04649ba0f357e1fecc2b54e4f55',1,'Sgt::basic_json::at(size_type idx)'],['../class_sgt_1_1basic__json.html#a83a1d9b60e7750e9ceeba636e6120bcb',1,'Sgt::basic_json::at(size_type idx) const '],['../class_sgt_1_1basic__json.html#a1209ffd5928075fd002ff043732d0f44',1,'Sgt::basic_json::at(const typename object_t::key_type &amp;key)'],['../class_sgt_1_1basic__json.html#addaee3f8e60e5d3c4bc7c085166d1385',1,'Sgt::basic_json::at(const typename object_t::key_type &amp;key) const ']]],
-  ['availablep',['availableP',['../class_sgt_1_1_inverter_abc.html#aaa4fd1b1ae0c456ed0d2a4317fd29616',1,'Sgt::InverterAbc']]],
+  ['array_5ft',['array_t',['../class_sgt_1_1basic__json.html#a149573bb242e42f2c475ff12746b0430',1,'Sgt::basic_json']]],
+  ['as',['as',['../class_sgt_1_1_component_ptr.html#ab77ed9ea5857f425057eb9d265b432d8',1,'Sgt::ComponentPtr']]],
+  ['at',['at',['../class_sgt_1_1basic__json.html#a764ad04649ba0f357e1fecc2b54e4f55',1,'Sgt::basic_json::at(size_type idx)'],['../class_sgt_1_1basic__json.html#aa470a7442819d3bdb24eea61f1f0c0cf',1,'Sgt::basic_json::at(size_type idx) const'],['../class_sgt_1_1basic__json.html#a1209ffd5928075fd002ff043732d0f44',1,'Sgt::basic_json::at(const typename object_t::key_type &amp;key)'],['../class_sgt_1_1basic__json.html#adbc49db36c8dc8413182b847b1640479',1,'Sgt::basic_json::at(const typename object_t::key_type &amp;key) const']]],
+  ['availablep',['availableP',['../class_sgt_1_1_inverter_abc.html#af8c9853bac0d27c8e3386b1262205e84',1,'Sgt::InverterAbc']]],
   ['azimuth',['azimuth',['../struct_sgt_1_1_spherical_angles.html#ab34340e366982abb8b1c778d8d07abc8',1,'Sgt::SphericalAngles']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['scg_5f',['Scg_',['../struct_sgt_1_1_pf_bus.html#a177f984bc03bbe5c3d42f4b73e29fb21',1,'Sgt::PfBus']]]
+  ['sconst_5f',['SConst_',['../struct_sgt_1_1_pf_bus.html#a3deb3a101ae9b5de64e77d789dd283c6',1,'Sgt::PfBus']]],
+  ['sgen_5f',['SGen_',['../struct_sgt_1_1_pf_bus.html#a4973f48d421fc0259fe9ac1755af5a93',1,'Sgt::PfBus']]]
 ];
